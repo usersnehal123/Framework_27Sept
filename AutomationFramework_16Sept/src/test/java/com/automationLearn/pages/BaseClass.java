@@ -22,7 +22,7 @@ import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
 
-
+//Base class.
 
 
 public class BaseClass {
